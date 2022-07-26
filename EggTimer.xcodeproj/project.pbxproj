@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E634256C288F666F0015FB50 /* alarm_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E634256B288F666F0015FB50 /* alarm_sound.mp3 */; };
+		E634256E288F86EB0015FB50 /* alarm_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E634256D288F86EB0015FB50 /* alarm_sound.mp3 */; };
 		E6BF82D0288F65CB00F7BFAD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6BF82CF288F65CB00F7BFAD /* AppDelegate.swift */; };
 		E6BF82D2288F65CB00F7BFAD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6BF82D1288F65CB00F7BFAD /* SceneDelegate.swift */; };
 		E6BF82D4288F65CB00F7BFAD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6BF82D3288F65CB00F7BFAD /* ViewController.swift */; };
@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		E634256B288F666F0015FB50 /* alarm_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = alarm_sound.mp3; sourceTree = "<group>"; };
+		E634256D288F86EB0015FB50 /* alarm_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = alarm_sound.mp3; sourceTree = "<group>"; };
 		E6BF82CC288F65CB00F7BFAD /* EggTimer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EggTimer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E6BF82CF288F65CB00F7BFAD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E6BF82D1288F65CB00F7BFAD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -58,7 +58,7 @@
 		E6BF82CE288F65CB00F7BFAD /* EggTimer */ = {
 			isa = PBXGroup;
 			children = (
-				E634256B288F666F0015FB50 /* alarm_sound.mp3 */,
+				E634256D288F86EB0015FB50 /* alarm_sound.mp3 */,
 				E6BF82CF288F65CB00F7BFAD /* AppDelegate.swift */,
 				E6BF82D1288F65CB00F7BFAD /* SceneDelegate.swift */,
 				E6BF82D3288F65CB00F7BFAD /* ViewController.swift */,
@@ -130,7 +130,7 @@
 			files = (
 				E6BF82DC288F65CD00F7BFAD /* LaunchScreen.storyboard in Resources */,
 				E6BF82D9288F65CD00F7BFAD /* Assets.xcassets in Resources */,
-				E634256C288F666F0015FB50 /* alarm_sound.mp3 in Resources */,
+				E634256E288F86EB0015FB50 /* alarm_sound.mp3 in Resources */,
 				E6BF82D7288F65CB00F7BFAD /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
